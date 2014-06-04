@@ -3,7 +3,7 @@ WebCrawler
 
 This is a Web Crawling script written in python language.
 
-You have to provide following inputs to start the crawler:
+You have to provide following inputs to start the crawler:<br/>
 1- Seed Url(eg: http://edition.cnn.com/) <br/>
 2- Maximum Depth upto which you want to crawl. <br/>
 3- Maximum number of pages to crawl.
