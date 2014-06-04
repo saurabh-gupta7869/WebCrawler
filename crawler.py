@@ -18,7 +18,7 @@ else:
     U="http://edition.cnn.com/"
 
 # Limit for maximum no pages to crawl
-print "Enter the maximum no pages to crawl :"
+print "Enter the maximum no pages to crawl (eg: 20):"
 x= raw_input()
 try:
     x=int(x)
@@ -30,7 +30,7 @@ except:
     M=40
 
 
-print "Enter the Maximum depth to crawl :"
+print "Enter the Maximum depth to crawl (eg: 5):"
 x= raw_input()
 try:
     x=int(x)
